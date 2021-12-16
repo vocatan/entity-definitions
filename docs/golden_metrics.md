@@ -14,7 +14,7 @@ They're defined in a map with a unique key, which defines the intention of the m
 * Provide a `title`, with a brief explanation of the query.
 * Provide a `unit`, which helps the UI make unit conversions when required.
 
-For example, a query result of `0.003 seconds` will most probably be converted into `3 miliseconds`.
+For example, a query result of `0.003 seconds` will most probably be converted into `3 milliseconds`.
 
 ```yaml
 memoryUsage:
